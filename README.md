@@ -13,7 +13,7 @@ The purpose of this project was to **data wrangle, dashboard design, and derive 
 
 👉 Example visuals include **cards, bar charts, line graphs, and a table**.
 
-![image](UPLOAD_YOUR_DASHBOARD_SCREENSHOT_HERE)
+![image](https://github.com/rennykefs/Covid-19-/blob/0006cb1728fed4e4e62b79e7647674b51ea94752/covid%2019.png))
 
 ---
 ## 🔎 Insights and Findings
